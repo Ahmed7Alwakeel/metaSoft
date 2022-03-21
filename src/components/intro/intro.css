@@ -1,0 +1,35 @@
+.introSection{
+    background-image:url("./../../../public/Shape.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+.introSection__layer{
+    background-image:url("./../../../public/bg2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn-transpernt{
+    background-color: transparent;
+}
+.btn-orange{
+    background-color: #F47B20;
+    border-radius: 0;
+    border: 0;
+}
+.form-control{
+    background-color: #EEEE;
+    border: 0;
+}
+.card__p{
+    color: #B7B7B7;
+}
+.col-postion{
+    position: relative;
+    height:200px;
+}
+.card__postion{
+    position: absolute;
+    top: -80px;
+    left: 25%;
+}

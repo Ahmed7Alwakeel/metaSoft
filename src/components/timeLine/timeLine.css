@@ -1,0 +1,47 @@
+.bg-whiteT {
+    background-color: white;
+    margin-top: 100px;
+}
+
+.timeLine__area {
+    height: 445px;
+    border-left: 2px solid #F47B20;
+    margin-bottom: 170px;
+}
+
+.divTime {
+    position: relative;
+
+}
+
+.divTimeO {
+    position: relative;
+
+}
+
+.divTime::before {
+    content: '';
+    display: block;
+    width: 15px;
+    height: 15px;
+    transform: rotate(45deg);
+    background-color: white;
+    border: 3px solid #F47B20;
+    position: absolute;
+    top: 10px;
+    left: -24px;
+}
+
+.divTimeO::before {
+    content: '';
+    display: block;
+    width: 15px;
+    height: 15px;
+    transform: rotate(45deg);
+    background-color: #F47B20;
+    border: 2px solid #F47B20;
+    position: absolute;
+    top: 10px;
+    left: -24px;
+    overflow: hidden;
+}

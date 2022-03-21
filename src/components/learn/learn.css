@@ -1,0 +1,23 @@
+.learn{
+    position: relative;
+}
+
+.learn__img2{
+    width: 100%;
+    z-index: 0;
+    position: absolute;
+    top: -80px;
+    left: -80px;
+    overflow: hidden;
+}
+.learn__img1{
+    width: 100%;
+    z-index: 0;
+    position: absolute;
+    top: -60px;
+    left: -20px;
+    overflow: hidden;
+}
+.learn__img3{
+    position: absolute;
+}

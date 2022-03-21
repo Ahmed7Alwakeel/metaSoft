@@ -1,0 +1,13 @@
+
+.btn-orange{
+    background-color: #F47B20;
+    border-radius: 0;
+}
+.btn-light{
+    box-shadow: 0;
+    background-color: #EEEEEE;
+    border: 1px solid black;
+}
+.bg-white {
+    background-color: white;
+}
