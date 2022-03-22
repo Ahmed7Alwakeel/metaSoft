@@ -60,11 +60,11 @@ const Companies = () => {
                 </div>
               </div>
               <button class="carousel-control-prev bg-light border border-4 border-dark" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon text-dark fw-bolder fs-1" aria-hidden="true"><i class="fa fa-angle-left fs-1 fw-bolder"></i></span>
+                <span class="carousel-control-prev-icon text-dark fw-bolder fs-1" aria-hidden="true"><i class="fa fa-angle-left fs fw-bolder"></i></span>
                 <span class="visually-hidden">Previous</span>
               </button>
               <button class="carousel-control-next bg-light border border-4 border-dark" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                <span class="carousel-control-next-icon text-dark fw-bolder fs-1" aria-hidden="true"><i class="fa fa-angle-right fs-1 fw-bolder"></i></span>
+                <span class="carousel-control-next-icon text-dark fw-bolder fs-1" aria-hidden="true"><i class="fa fa-angle-right fs fw-bolder"></i></span>
                 <span class="visually-hidden">Next</span>
               </button>
             </div>
