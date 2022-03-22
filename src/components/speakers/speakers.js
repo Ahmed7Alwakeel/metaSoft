@@ -15,7 +15,7 @@ const Speakers = () => {
             </div>
             <div className='col-12 d-flex align-items-center justify-content-center'>
                 <div className='row ms-5 me-5'>
-                    <div className='col-3'>
+                    <div className='col-md-3 mt-2'>
                         <div class="card cardd rounded-top" >
                             <img src={require("./img/Member1.png")} className="  card-img-top w-100" />
 
@@ -26,7 +26,7 @@ const Speakers = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='col-3'>
+                    <div className='col-md-3 mt-2'>
                         <div class="card cardd rounded-top" >
                             <img src={require("./img/Member2.PNG")} className="  card-img-top w-100" />
 
@@ -37,7 +37,7 @@ const Speakers = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='col-3'>
+                    <div className='col-md-3 mt-2'>
                         <div class="card  cardd rounded-top" >
                             <img src={require("./img/Member3.PNG")} className="  card-img-top w-100" />
 
@@ -48,7 +48,7 @@ const Speakers = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='col-3'>
+                    <div className='col-md-3 mt-2'>
                         <div class="card cardd rounded-top" >
                             <img src={require("./img/Member4.PNG")} className="  card-img-top w-100" />
 

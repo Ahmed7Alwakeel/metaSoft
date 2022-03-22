@@ -20,8 +20,8 @@ const Intro = () => {
                             <button className='bnt btn-orange text-light fw-bold p-2'>Learn more</button>
                             <p className='text-light fw-bold mb-3'>IS THE PERFECT CHOICE TO KEYNOTE YOUR NEXT EVENT</p>
                             <div className=' mt-5'>
-                                <button className='bnt btn-transpernt  border border-2 text-light fs-5 fw-bold p-2 me-1'><i class="fa fa-play p-2"></i> Watch RODY's Video</button>
-                                <button className='bnt btn-orange text-light fw-bold p-2 fs-5 ms-1'>REQUEST SPEAKING INFORMATION</button>
+                                <button className='bnt btn-transpernt  border border-2 text-light fs-5 fw-bold p-2 me-1 ms-1'><i class="fa fa-play p-2"></i> Watch RODY's Video</button>
+                                <button className='bnt btn-orange text-light fw-bold p-2 fs-5 ms-1 me-1 mt-2'>REQUEST SPEAKING INFORMATION</button>
                             </div>
                         </div>
                         <div className='col-3'>

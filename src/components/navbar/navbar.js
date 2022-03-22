@@ -18,38 +18,38 @@ const Navbar = () => {
                 <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
               </li>
               <li className="nav-item ms-2">
-                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Meet</NavLink>
               </li>
               <li className="nav-item ms-2">
-                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Podcast</NavLink>
               </li>
               <li className="nav-item dropdown ms-2">
-                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Books</NavLink>
                 <ul className="dropdown-menu ms-2" aria-labelledby="navbarDropdown">
-                  <li><NavLink className="nav-link active fw-bold text-light" aria-current="page" to="#">Home</NavLink></li>
-                  <li><NavLink className="nav-link active fw-bold text-light" aria-current="page" to="#">Home</NavLink></li>
+                  <li><NavLink className="nav-link active fw-bold text-light" aria-current="page" to="#">Speaking</NavLink></li>
+                  <li><NavLink className="nav-link active fw-bold text-light" aria-current="page" to="#">Media</NavLink></li>
                   <li><hr className="dropdown-divider" />
                   </li>
-                  <li><NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink></li>
+                  <li><NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Branding</NavLink></li>
                 </ul>
               </li>
               <li className="nav-item ms-2">
-                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Speaking</NavLink>
+              </li>
+              <li className="nav-item ms-2 ">
+                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Media</NavLink>
               </li>
               <li className="nav-item ms-2">
-                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Branding</NavLink>
               </li>
               <li className="nav-item ms-2">
-                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Blog</NavLink>
               </li>
               <li className="nav-item ms-2">
-                <NavLink className="nav-link active fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link  fw-bolder text-light" aria-current="page" to="#">Training</NavLink>
               </li>
               <li className="nav-item ms-2">
-                <NavLink className="nav-link  fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
-              </li>
-              <li className="nav-item ms-2">
-                <NavLink className="nav-link  fw-bolder text-light" aria-current="page" to="#">Home</NavLink>
+                <NavLink className="nav-link  fw-bolder text-light" aria-current="page" to="#">Contact</NavLink>
               </li>
             </ul>
             <form className='me-5'>
