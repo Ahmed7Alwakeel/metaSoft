@@ -1,2 +1,2 @@
 # Rory
-##### Simple Ui Using React Component
+##### Simple Ui Using React Components
